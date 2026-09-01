@@ -1,4 +1,4 @@
-# Technical Founder | SaaS Engineer
+# SaaS Engineer
 
 I build scalable SaaS products from idea to production.
 
